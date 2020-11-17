@@ -1,8 +1,8 @@
-# usa ssr
+# 美国1
 ssr://MzQuMjEyLjgzLjE5OToxMDA6YXV0aF9zaGExX3Y0OmFlcy0xMjgtY3RyOnBsYWluOlltbGtZblZ6Lz9yZW1hcmtzPVltbGtZblZ6SUhOemNn
 
-# hk1
+# 香港1
 ssr://MzQuOTIuMjQ0LjEyMDo3MDA6YXV0aF9zaGExX3Y0OmFlcy0xMjgtY3RyOnBsYWluOmVIVnFhVzV4YVEvP3JlbWFya3M9YzNOeVgyaHJNUQ
 
-# tw1
+# 台湾1
 ssr://MzUuMjI5LjE4NS4xMjU6NzAwOmF1dGhfc2hhMV92NDphZXMtMTI4LWN0cjpwbGFpbjplSFZxYVc1eGFRLz9yZW1hcmtzPWMzTnlYM1IzTVE
